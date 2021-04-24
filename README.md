@@ -31,7 +31,7 @@ The pre-trained model is "D2Net.h5"
 1. When you only have one GPU, please comment out the Gradnorm code block
 2. The pre-trained model is trained on a private data set. When you try to do other tasks, please retrain the model on a new data set
 3. Please set the learning rate of the discriminator reasonably according to your task
-4. In order to facilitate understanding, we simplified this code. If there is a problem, please contact us in time
+4. In order to facilitate understanding, we simplified this code. If you have questions, please contact us in time
 
 
 ```
