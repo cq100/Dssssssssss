@@ -26,6 +26,12 @@ To test on a single image,
 
 The pre-trained model is "D2Net.h5"
 
+## Remarks
+
+1. When you only have one GPU, please comment out the Gradnorm code block
+2. The pre-trained model is trained on a private data set
+
+
 ## Parent Repository
 
 The code was taken from <a href="">https://github.com/KupynOrest/RestoreGAN</a> . This repository contains flexible pipelines for different Image Restoration tasks.
