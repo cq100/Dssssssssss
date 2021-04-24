@@ -19,9 +19,8 @@ This configuration file is core/config.py
 
 To test on a single image,
 
-```python predict.py IMAGE_NAME.jpg```
+```python predict.py --image ./data/1.jpg```
 
-By default, the name of the pretrained model used by Predictor is 'best_fpn.h5'. One can change it in the code ('weights_path' argument). It assumes that the fpn_inception backbone is used. If you want to try it with different backbone pretrain, please specify it also under ['model']['g_name'] in config/config.yaml.
 
 ## Pre-trained models
 
@@ -62,19 +61,6 @@ By default, the name of the pretrained model used by Predictor is 'best_fpn.h5'.
 
 The code was taken from <a href="">https://github.com/KupynOrest/RestoreGAN</a> . This repository contains flexible pipelines for different Image Restoration tasks.
 
-## Citation
 
-If you use this code for your research, please cite our paper.
-
-```
-​```
-@InProceedings{Kupyn_2019_ICCV,
-author = {Orest Kupyn and Tetiana Martyniuk and Junru Wu and Zhangyang Wang},
-title = {DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-month = {Oct},
-year = {2019}
-}
-​```
 ```
 
