@@ -21,7 +21,7 @@ This configuration file is core/config.py
 
 To test on a single image,
 
-```python predict.py --image ./data/1.jpg```
+```python detect.py --image ./data/1.jpg```
 
 
 ## Pre-trained model
