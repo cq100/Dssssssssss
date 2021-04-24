@@ -1,6 +1,8 @@
-# DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better
+# D2Net
+![image](https://user-images.githubusercontent.com/62050566/115942033-b0be0100-a4da-11eb-8773-2187ca3de4de.png)
 
-Code for this paper [DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://arxiv.org/abs/1908.03826)
+
+Code for this paper [An LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
 
 Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
 
