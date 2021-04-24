@@ -4,7 +4,9 @@
 
 Code for this paper [An LED Detection and Recognition Method Based on Deep Learning in Vehicle Optical Camera Communication]
 
-Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
+XU SUN,  QING CHENG
+![image](https://user-images.githubusercontent.com/62050566/115942090-04c8e580-a4db-11eb-83f0-3d440791f3ff.png)
+
 
 In ICCV 2019
 
