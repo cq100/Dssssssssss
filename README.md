@@ -11,11 +11,9 @@ XU SUN,  QING CHENG
 
 ```python train.py```
 
-training script will load config under config/config.yaml
+This configuration file is core/config.py
 
-#### Tensorboard visualization
 
-![](./doc_images/tensorboard2.png)
 
 ## Testing
 
