@@ -17,6 +17,8 @@ This configuration file is core/config.py
 
 ## Testing
 
+#### Command
+
 To test on a single image,
 
 ```python predict.py --image ./data/1.jpg```
