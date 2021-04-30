@@ -128,5 +128,6 @@ year = {2019}
 }
 ​```
 ```
-href="https://drive.google.com/uc?export=view&id=1JhnT4BBeKBBSLqTo6UsJ13HeBXevarrU">fpn_mobilenet.h5
+The datasets for training can be downloaded via the links below:
+- [DVD](https://drive.google.com/file/d/1bpj9pCcZR_6-AHb5aNnev5lILQbH8GMZ/view)
 
